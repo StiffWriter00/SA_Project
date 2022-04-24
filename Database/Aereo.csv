@@ -1,0 +1,5 @@
+codice_aereo,modello,posti_prima,posti_seconda,posti_economy,percorrenza,stato,manutenzione,km_da_manutenzione,personale_pilota,personale_assistenza
+"asldjdf893","Airbus A330",468,545,453,684536,1,"03/18/22 00:00:00",65442,2,6
+"dfljg6854","Boeing 737-200",200,300,400,6546465,1,"03/30/21 00:00:00",445552,6,3
+"jkdfnd234","McDonnell Douglas DC-9",498,564,651,6546542,1,"11/19/21 00:00:00",68533,7,3
+"kjfhs798","Airbus A320",232,246,654,6486546,1,"04/26/22 00:00:00",65465,5,2
